@@ -2,7 +2,7 @@
 layout: post
 title: Hello world ~
 categories:
-- 散 
+- 散
 tags:
 - jekyll
 ---
