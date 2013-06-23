@@ -1,5 +1,5 @@
 ---
-title: Keep on Fighting!
+title: Enjoy the Life!
 layout: page
 ---
 
