@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 在台湾遇见的，离别
-categories:[Life, Featured]
-- 散
-tags:[2013，台湾]
-- 
+categories:
+- [Life, Featured]
+tags:
+- [2013，台湾]
 
 ---
 
