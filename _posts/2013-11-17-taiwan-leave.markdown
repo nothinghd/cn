@@ -27,4 +27,4 @@ tags:
 老五在跳嫖客舞，车上二逼的死睡像，猪在吃鸡排老干妈。感觉时间离的好近又好远。眼泪就憋不住了，我再也不看韩剧了- - ！
     第二天，我和最后一个小伙伴饭在台北车站道别了，看着她推着她的小绿箱子从电梯里完全消失。
     我的离别总算结束了。我也要离开没有大家的台北了，好开心。
-![大合照](https://raw.github.com/nothinghd/nothinghd.github.com/master/slides/images/all.jpg)
+![大合照啊](https://raw.github.com/nothinghd/nothinghd.github.com/master/slides/images/all.jpg)
